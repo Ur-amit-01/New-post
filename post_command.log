@@ -1,0 +1,657 @@
+2025-05-13 04:04:32,797 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 04:04:32,964 - commands.post - INFO - Command: /post
+2025-05-13 04:04:33,041 - commands.post - INFO - Connected channels found: 7
+2025-05-13 04:04:33,044 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 04:04:33,200 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 04:05:22,371 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 04:05:22,404 - commands.post - INFO - Command: /post
+2025-05-13 04:05:22,467 - commands.post - INFO - Connected channels found: 7
+2025-05-13 04:05:22,473 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 04:05:22,598 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 04:06:59,437 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 04:06:59,560 - commands.post - INFO - Command: /post
+2025-05-13 04:06:59,639 - commands.post - INFO - Connected channels found: 7
+2025-05-13 04:06:59,643 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 04:06:59,787 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 04:11:13,947 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 04:11:13,950 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 04:11:13,957 - commands.post - INFO - Username: RexFp
+2025-05-13 04:11:13,958 - commands.post - INFO - Command Text: /post
+2025-05-13 04:11:14,030 - commands.post - INFO - Connected channels found: 7
+2025-05-13 04:11:14,033 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 04:11:14,174 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 04:14:08,724 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 04:14:08,727 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 04:14:08,732 - commands.post - INFO - Username: RexFp
+2025-05-13 04:14:08,735 - commands.post - INFO - Command Text: /post
+2025-05-13 04:14:08,811 - commands.post - INFO - Connected channels found: 7
+2025-05-13 04:14:08,812 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 04:14:08,952 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 04:16:28,800 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 04:16:28,803 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 04:16:28,809 - commands.post - INFO - Username: RexFp
+2025-05-13 04:16:28,811 - commands.post - INFO - Command Text: /post
+2025-05-13 04:16:28,873 - commands.post - INFO - Connected channels found: 7
+2025-05-13 04:16:28,875 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 04:16:29,026 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 04:54:01,252 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 04:54:01,258 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 04:54:01,264 - commands.post - INFO - Username: RexFp
+2025-05-13 04:54:01,266 - commands.post - INFO - Command Text: /post
+2025-05-13 04:54:01,344 - commands.post - INFO - Connected channels found: 7
+2025-05-13 04:54:01,346 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 04:54:01,463 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:03:33,807 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:03:33,813 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:03:33,817 - commands.post - INFO - Username: RexFp
+2025-05-13 05:03:33,820 - commands.post - INFO - Command Text: /post
+2025-05-13 05:03:33,894 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:03:33,896 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:03:34,066 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:06:44,254 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:06:44,259 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:06:44,267 - commands.post - INFO - Username: RexFp
+2025-05-13 05:06:44,273 - commands.post - INFO - Command Text: /post
+2025-05-13 05:06:44,340 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:06:44,348 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:06:44,542 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:09:17,729 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:09:17,733 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:09:17,742 - commands.post - INFO - Username: RexFp
+2025-05-13 05:09:17,748 - commands.post - INFO - Command Text: /post
+2025-05-13 05:09:17,824 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:09:17,834 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:09:18,005 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:09:20,063 - commands.post - INFO - Test command received
+2025-05-13 05:09:23,057 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:09:23,067 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:09:23,071 - commands.post - INFO - Username: RexFp
+2025-05-13 05:09:23,078 - commands.post - INFO - Command Text: /post
+2025-05-13 05:09:23,138 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:09:23,141 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:09:23,272 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:09:32,219 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:09:32,222 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:09:32,228 - commands.post - INFO - Username: RexFp
+2025-05-13 05:09:32,229 - commands.post - INFO - Command Text: /post
+2025-05-13 05:09:32,286 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:09:32,289 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:09:32,431 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:10:05,600 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:10:05,605 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:10:05,612 - commands.post - INFO - Username: RexFp
+2025-05-13 05:10:05,613 - commands.post - INFO - Command Text: /post
+2025-05-13 05:10:05,693 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:10:05,710 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:10:05,863 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:12:45,840 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:12:45,843 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:12:45,849 - commands.post - INFO - Username: RexFp
+2025-05-13 05:12:45,852 - commands.post - INFO - Command Text: /post
+2025-05-13 05:12:45,922 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:12:45,927 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:12:46,055 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:13:04,710 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:13:04,712 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:13:04,717 - commands.post - INFO - Username: RexFp
+2025-05-13 05:13:04,718 - commands.post - INFO - Command Text: /post
+2025-05-13 05:13:04,781 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:13:04,783 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:13:04,911 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:14:21,981 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:14:21,985 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:14:22,011 - commands.post - INFO - Username: RexFp
+2025-05-13 05:14:22,019 - commands.post - INFO - Command Text: /post
+2025-05-13 05:14:22,095 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:14:22,098 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:14:22,234 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:16:01,486 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:16:01,488 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:16:01,492 - commands.post - INFO - Username: RexFp
+2025-05-13 05:16:01,493 - commands.post - INFO - Command Text: /post
+2025-05-13 05:16:01,570 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:16:01,573 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:16:01,703 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:25:47,210 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:25:47,213 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:25:47,217 - commands.post - INFO - Username: RexFp
+2025-05-13 05:25:47,219 - commands.post - INFO - Command Text: /post
+2025-05-13 05:25:47,316 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:25:47,318 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:25:47,462 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:27:18,422 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:27:18,424 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:27:18,428 - commands.post - INFO - Username: RexFp
+2025-05-13 05:27:18,429 - commands.post - INFO - Command Text: /post
+2025-05-13 05:27:18,534 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:27:18,536 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:27:18,667 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:28:10,886 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:28:10,888 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:28:10,893 - commands.post - INFO - Username: RexFp
+2025-05-13 05:28:10,894 - commands.post - INFO - Command Text: /post
+2025-05-13 05:28:10,973 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:28:10,975 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:28:11,285 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:31:03,027 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:31:03,028 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:31:03,028 - commands.post - INFO - Username: RexFp
+2025-05-13 05:31:03,028 - commands.post - INFO - Command Text: /post
+2025-05-13 05:31:03,126 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:31:03,126 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:31:03,274 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:32:33,990 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:32:33,992 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:32:33,997 - commands.post - INFO - Username: RexFp
+2025-05-13 05:32:33,999 - commands.post - INFO - Command Text: /post
+2025-05-13 05:32:34,100 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:32:34,102 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:32:34,252 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:34:36,039 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:34:36,041 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:34:36,046 - commands.post - INFO - Username: RexFp
+2025-05-13 05:34:36,047 - commands.post - INFO - Command Text: /post
+2025-05-13 05:34:36,137 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:34:36,139 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:34:36,298 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:36:20,532 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:36:20,534 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:36:20,539 - commands.post - INFO - Username: RexFp
+2025-05-13 05:36:20,540 - commands.post - INFO - Command Text: /post
+2025-05-13 05:36:20,630 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:36:20,633 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:36:20,772 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:36:23,656 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 05:36:23,659 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 05:36:23,665 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 05:36:23,666 - commands.post - DEBUG - Stored original message
+2025-05-13 05:36:23,666 - commands.post - DEBUG - Processing text message
+2025-05-13 05:36:23,667 - commands.post - DEBUG - Set text: j and caption: j
+2025-05-13 05:37:40,168 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 05:37:40,171 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 05:37:40,175 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 05:37:40,176 - commands.post - DEBUG - Stored original message
+2025-05-13 05:37:40,177 - commands.post - DEBUG - Processing text message
+2025-05-13 05:37:40,178 - commands.post - DEBUG - Set text: 2025-05-13 05:36 and caption: 2025-05-13 05:36
+2025-05-13 05:37:54,804 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:37:54,806 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:37:54,811 - commands.post - INFO - Username: RexFp
+2025-05-13 05:37:54,813 - commands.post - INFO - Command Text: /post
+2025-05-13 05:37:54,908 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:37:54,910 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:37:55,043 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:38:05,410 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 05:38:05,413 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 05:38:05,418 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 05:38:05,419 - commands.post - DEBUG - Stored original message
+2025-05-13 05:38:05,421 - commands.post - DEBUG - Processing photo message
+2025-05-13 05:38:05,422 - commands.post - ERROR - Error in handle_post_content: 'Photo' object is not subscriptable
+Traceback (most recent call last):
+  File "C:\Users\satya\Desktop\channel_bot\commands\post.py", line 133, in handle_post_content
+    draft.media = message.photo[-1].file_id
+                  ~~~~~~~~~~~~~^^^^
+TypeError: 'Photo' object is not subscriptable
+2025-05-13 05:49:28,789 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:49:28,790 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:49:28,796 - commands.post - INFO - Username: RexFp
+2025-05-13 05:49:28,797 - commands.post - INFO - Command Text: /post
+2025-05-13 05:49:28,939 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:49:28,941 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:49:29,064 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:49:51,720 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 05:49:51,722 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 05:49:51,727 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 05:49:51,730 - commands.post - DEBUG - Stored original message
+2025-05-13 05:49:51,731 - commands.post - DEBUG - Processing photo message
+2025-05-13 05:50:11,857 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:50:11,861 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:50:11,866 - commands.post - INFO - Username: RexFp
+2025-05-13 05:50:11,869 - commands.post - INFO - Command Text: /post
+2025-05-13 05:50:12,136 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:50:12,138 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:50:12,268 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:57:56,788 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 05:57:56,791 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 05:57:56,796 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 05:57:56,797 - commands.post - DEBUG - Stored original message
+2025-05-13 05:57:56,798 - commands.post - DEBUG - Processing photo message
+2025-05-13 05:58:02,038 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 05:58:02,041 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 05:58:02,044 - commands.post - INFO - Username: RexFp
+2025-05-13 05:58:02,046 - commands.post - INFO - Command Text: /post
+2025-05-13 05:58:03,008 - commands.post - INFO - Connected channels found: 7
+2025-05-13 05:58:03,011 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 05:58:03,143 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 05:58:14,668 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 05:58:14,671 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 05:58:14,674 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 05:58:14,682 - commands.post - DEBUG - Stored original message
+2025-05-13 05:58:14,684 - commands.post - ERROR - Error sending preview: cannot access local variable 'preview' where it is not associated with a value
+2025-05-13 06:02:30,993 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:02:30,995 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:02:30,995 - commands.post - INFO - Username: RexFp
+2025-05-13 06:02:30,995 - commands.post - INFO - Command Text: /post
+2025-05-13 06:02:31,112 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:02:31,114 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:02:31,314 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:02:38,955 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:02:38,958 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:02:38,964 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:02:38,966 - commands.post - DEBUG - Stored original message
+2025-05-13 06:02:38,967 - commands.post - ERROR - Error sending preview: cannot access local variable 'preview' where it is not associated with a value
+2025-05-13 06:09:00,236 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:09:00,237 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:09:00,237 - commands.post - INFO - Username: RexFp
+2025-05-13 06:09:00,237 - commands.post - INFO - Command Text: /post
+2025-05-13 06:09:00,325 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:09:00,327 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:09:00,507 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:09:06,446 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:09:06,450 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:09:06,456 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:09:06,459 - commands.post - DEBUG - Stored original message
+2025-05-13 06:09:06,460 - commands.post - ERROR - Error sending preview: cannot access local variable 'preview' where it is not associated with a value
+2025-05-13 06:18:09,675 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:18:09,677 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:18:09,682 - commands.post - INFO - Username: RexFp
+2025-05-13 06:18:09,683 - commands.post - INFO - Command Text: /post
+2025-05-13 06:18:09,890 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:18:09,893 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:18:10,064 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:18:14,290 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:18:14,293 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:18:14,296 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:18:14,297 - commands.post - DEBUG - Stored original message
+2025-05-13 06:18:14,298 - commands.post - DEBUG - Processing text message
+2025-05-13 06:18:14,299 - commands.post - DEBUG - Set text: 📝 Send me the content you want to post. It can be:
+• Text message
+• Photo
+• Video
+• Document
+• Audio
+• Voice
+• Sticker
+
+You can include a caption with your media. and caption: 📝 Send me the content you want to post. It can be:
+• Text message
+• Photo
+• Video
+• Document
+• Audio
+• Voice
+• Sticker
+
+You can include a caption with your media.
+2025-05-13 06:18:22,704 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:18:22,708 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:18:22,712 - commands.post - INFO - Username: RexFp
+2025-05-13 06:18:22,715 - commands.post - INFO - Command Text: /post
+2025-05-13 06:18:22,805 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:18:22,808 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:18:23,088 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:18:35,279 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:18:35,281 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:18:35,281 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:18:35,281 - commands.post - DEBUG - Stored original message
+2025-05-13 06:18:35,282 - commands.post - DEBUG - Processing voice message
+2025-05-13 06:19:04,381 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:19:04,381 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:19:04,381 - commands.post - INFO - Username: RexFp
+2025-05-13 06:19:04,382 - commands.post - INFO - Command Text: /post
+2025-05-13 06:19:04,477 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:19:04,479 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:19:04,661 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:20:21,423 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:20:21,423 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:20:21,424 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:20:21,424 - commands.post - DEBUG - Stored original message
+2025-05-13 06:20:24,464 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:20:24,465 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:20:24,465 - commands.post - INFO - Username: RexFp
+2025-05-13 06:20:24,466 - commands.post - INFO - Command Text: /post
+2025-05-13 06:20:24,559 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:20:24,562 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:20:24,684 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:20:30,945 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:20:30,948 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:20:30,952 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:20:30,953 - commands.post - DEBUG - Stored original message
+2025-05-13 06:20:30,954 - commands.post - DEBUG - Processing sticker message
+2025-05-13 06:20:50,168 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:20:50,171 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:20:50,176 - commands.post - INFO - Username: RexFp
+2025-05-13 06:20:50,177 - commands.post - INFO - Command Text: /post
+2025-05-13 06:20:50,262 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:20:50,265 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:20:50,398 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:21:10,919 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:21:10,923 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:21:10,933 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:21:10,937 - commands.post - DEBUG - Stored original message
+2025-05-13 06:21:10,943 - commands.post - DEBUG - Processing audio message
+2025-05-13 06:21:23,264 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:21:23,266 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:21:23,277 - commands.post - INFO - Username: RexFp
+2025-05-13 06:21:23,280 - commands.post - INFO - Command Text: /post
+2025-05-13 06:21:23,365 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:21:23,372 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:21:23,520 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:21:48,823 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:21:48,826 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:21:48,833 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:21:48,839 - commands.post - DEBUG - Stored original message
+2025-05-13 06:21:48,846 - commands.post - DEBUG - Processing video message
+2025-05-13 06:42:52,154 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:42:52,157 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:42:52,163 - commands.post - INFO - Username: RexFp
+2025-05-13 06:42:52,164 - commands.post - INFO - Command Text: /post
+2025-05-13 06:42:52,274 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:42:52,276 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:42:52,471 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:43:02,535 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:43:02,537 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:43:02,541 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:43:02,542 - commands.post - DEBUG - Stored original message
+2025-05-13 06:43:02,544 - commands.post - DEBUG - Processing video message
+2025-05-13 06:43:19,417 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:43:19,421 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:43:19,427 - commands.post - ERROR - Error in handle_post_content: 
+Traceback (most recent call last):
+  File "C:\Users\satya\Desktop\channel_bot\commands\post.py", line 117, in handle_post_content
+    message.continue_propagation()
+  File "C:\Users\satya\AppData\Local\Programs\Python\Python311\Lib\site-packages\pyrogram\types\update.py", line 27, in continue_propagation
+    raise pyrogram.ContinuePropagation
+pyrogram.ContinuePropagation
+2025-05-13 06:43:50,298 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:43:50,302 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:43:50,307 - commands.post - INFO - Username: RexFp
+2025-05-13 06:43:50,309 - commands.post - INFO - Command Text: /post
+2025-05-13 06:43:50,440 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:43:50,443 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:43:50,660 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:43:59,695 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:43:59,702 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:43:59,703 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:43:59,705 - commands.post - DEBUG - Stored original message
+2025-05-13 06:43:59,706 - commands.post - DEBUG - Processing video message
+2025-05-13 06:44:08,914 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:44:08,924 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:44:08,931 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:44:08,933 - commands.post - DEBUG - Stored original message
+2025-05-13 06:44:08,934 - commands.post - DEBUG - Processing text message
+2025-05-13 06:44:08,935 - commands.post - DEBUG - Set text: the edit and caption: the edit
+2025-05-13 06:44:30,382 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:44:30,390 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:44:30,394 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:44:30,395 - commands.post - DEBUG - Stored original message
+2025-05-13 06:44:30,397 - commands.post - DEBUG - Processing text message
+2025-05-13 06:44:30,398 - commands.post - DEBUG - Set text: Japu and caption: Japu
+2025-05-13 06:47:34,920 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 06:47:34,922 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 06:47:34,928 - commands.post - INFO - Username: RexFp
+2025-05-13 06:47:34,929 - commands.post - INFO - Command Text: /post
+2025-05-13 06:47:35,681 - commands.post - INFO - Connected channels found: 7
+2025-05-13 06:47:35,683 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 06:47:35,895 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 06:48:02,487 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 06:48:02,492 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 06:48:02,498 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 06:48:02,500 - commands.post - DEBUG - Stored original message
+2025-05-13 06:48:02,502 - commands.post - DEBUG - Processing document message
+2025-05-13 07:03:21,231 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 07:03:21,233 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 07:03:21,237 - commands.post - INFO - Username: RexFp
+2025-05-13 07:03:21,239 - commands.post - INFO - Command Text: /post
+2025-05-13 07:03:21,559 - commands.post - INFO - Connected channels found: 7
+2025-05-13 07:03:21,560 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 07:03:21,739 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 07:04:20,006 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 07:04:20,009 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 07:04:20,015 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 07:04:20,016 - commands.post - DEBUG - Stored original message
+2025-05-13 07:04:20,018 - commands.post - DEBUG - Processing document message
+2025-05-13 07:04:26,987 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 07:04:26,990 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 07:04:26,996 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 07:04:26,997 - commands.post - DEBUG - Stored original message
+2025-05-13 07:04:26,998 - commands.post - DEBUG - Processing text message
+2025-05-13 07:04:26,999 - commands.post - DEBUG - Set text: japu and caption: japu
+2025-05-13 07:04:45,886 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 07:04:45,888 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 07:04:45,893 - commands.post - INFO - Username: RexFp
+2025-05-13 07:04:45,894 - commands.post - INFO - Command Text: /post
+2025-05-13 07:04:46,200 - commands.post - INFO - Connected channels found: 7
+2025-05-13 07:04:46,201 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 07:04:46,360 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 07:04:54,275 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 07:04:54,278 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 07:04:54,284 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 07:04:54,285 - commands.post - DEBUG - Stored original message
+2025-05-13 07:04:54,286 - commands.post - DEBUG - Processing video message
+2025-05-13 07:05:06,795 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 07:05:06,798 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 07:05:06,804 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 07:05:06,806 - commands.post - DEBUG - Stored original message
+2025-05-13 07:05:06,807 - commands.post - DEBUG - Processing text message
+2025-05-13 07:05:06,808 - commands.post - DEBUG - Set text: JAPU and caption: JAPU
+2025-05-13 08:21:13,246 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:21:13,249 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:21:13,250 - commands.post - INFO - Username: RexFp
+2025-05-13 08:21:13,250 - commands.post - INFO - Command Text: /post
+2025-05-13 08:21:13,333 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:21:13,335 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:21:13,466 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:22:14,606 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:22:14,609 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:22:14,610 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:22:14,610 - commands.post - DEBUG - Stored original message
+2025-05-13 08:22:14,610 - commands.post - DEBUG - Processing text message
+2025-05-13 08:22:14,611 - commands.post - DEBUG - Set text: .help and caption: .help
+2025-05-13 08:24:33,403 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:24:33,406 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:24:33,406 - commands.post - INFO - Username: RexFp
+2025-05-13 08:24:33,406 - commands.post - INFO - Command Text: /post
+2025-05-13 08:24:33,486 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:24:33,487 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:24:33,648 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:24:54,388 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:24:54,390 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:24:54,391 - commands.post - INFO - Username: RexFp
+2025-05-13 08:24:54,391 - commands.post - INFO - Command Text: /post
+2025-05-13 08:24:54,515 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:24:54,516 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:24:54,739 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:25:01,174 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:25:01,176 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:25:01,177 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:25:01,177 - commands.post - DEBUG - Stored original message
+2025-05-13 08:25:01,178 - commands.post - DEBUG - Processing video message
+2025-05-13 08:25:41,608 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:25:41,610 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:25:41,610 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:25:41,610 - commands.post - DEBUG - Stored original message
+2025-05-13 08:25:41,611 - commands.post - DEBUG - Processing text message
+2025-05-13 08:25:41,611 - commands.post - DEBUG - Set text: hello i am here nice to meet you and caption: hello i am here nice to meet you
+2025-05-13 08:32:29,505 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:32:29,507 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:32:29,508 - commands.post - INFO - Username: RexFp
+2025-05-13 08:32:29,510 - commands.post - INFO - Command Text: /post
+2025-05-13 08:32:30,218 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:32:30,220 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:32:30,365 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:33:09,462 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:33:09,463 - commands.post - INFO - From User ID: 7526005252
+2025-05-13 08:33:09,464 - commands.post - INFO - Username: DEVIL_CODES
+2025-05-13 08:33:09,465 - commands.post - INFO - Command Text: /post
+2025-05-13 08:33:09,555 - commands.post - INFO - Connected channels found: 0
+2025-05-13 08:33:09,557 - commands.post - INFO - User 7526005252 attempted to post without connected channels
+2025-05-13 08:33:18,660 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:33:18,662 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:33:18,662 - commands.post - INFO - Username: RexFp
+2025-05-13 08:33:18,663 - commands.post - INFO - Command Text: /post
+2025-05-13 08:33:18,751 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:33:18,753 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:33:18,945 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:33:25,224 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:33:25,227 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:33:25,227 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:33:25,228 - commands.post - DEBUG - Stored original message
+2025-05-13 08:33:25,228 - commands.post - DEBUG - Processing video message
+2025-05-13 08:33:33,222 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:33:33,224 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:33:33,224 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:33:33,224 - commands.post - DEBUG - Stored original message
+2025-05-13 08:33:33,225 - commands.post - DEBUG - Processing text message
+2025-05-13 08:33:33,225 - commands.post - DEBUG - Set text: japu and caption: japu
+2025-05-13 08:36:40,336 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:36:40,369 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:36:40,370 - commands.post - INFO - Username: RexFp
+2025-05-13 08:36:40,370 - commands.post - INFO - Command Text: /post
+2025-05-13 08:36:40,465 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:36:40,467 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:36:40,756 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:36:46,088 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:36:46,091 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:36:46,092 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:36:46,093 - commands.post - DEBUG - Stored original message
+2025-05-13 08:36:46,093 - commands.post - DEBUG - Processing video message
+2025-05-13 08:36:51,742 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:36:51,744 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:36:51,744 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:36:51,745 - commands.post - DEBUG - Stored original message
+2025-05-13 08:36:51,745 - commands.post - DEBUG - Processing text message
+2025-05-13 08:36:51,745 - commands.post - DEBUG - Set text: japu and caption: japu
+2025-05-13 08:38:46,290 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:38:46,291 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:38:46,292 - commands.post - INFO - Username: RexFp
+2025-05-13 08:38:46,292 - commands.post - INFO - Command Text: /post
+2025-05-13 08:38:46,374 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:38:46,376 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:38:46,504 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:38:51,381 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:38:51,384 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:38:51,384 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:38:51,385 - commands.post - DEBUG - Stored original message
+2025-05-13 08:38:51,386 - commands.post - DEBUG - Processing video message
+2025-05-13 08:38:54,134 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:38:54,136 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:38:54,137 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:38:54,137 - commands.post - DEBUG - Stored original message
+2025-05-13 08:38:54,137 - commands.post - DEBUG - Processing text message
+2025-05-13 08:38:54,138 - commands.post - DEBUG - Set text: gb and caption: gb
+2025-05-13 08:44:11,610 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 08:44:11,612 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 08:44:11,613 - commands.post - INFO - Username: RexFp
+2025-05-13 08:44:11,613 - commands.post - INFO - Command Text: /post
+2025-05-13 08:44:11,714 - commands.post - INFO - Connected channels found: 7
+2025-05-13 08:44:11,716 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 08:44:11,854 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 08:44:17,542 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:44:17,545 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:44:17,546 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:44:17,546 - commands.post - DEBUG - Stored original message
+2025-05-13 08:44:17,546 - commands.post - DEBUG - Processing video message
+2025-05-13 08:44:20,086 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 08:44:20,088 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 08:44:20,088 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 08:44:20,089 - commands.post - DEBUG - Stored original message
+2025-05-13 08:44:20,089 - commands.post - DEBUG - Processing text message
+2025-05-13 08:44:20,089 - commands.post - DEBUG - Set text: d\ and caption: d\
+2025-05-13 09:05:43,341 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 09:05:43,343 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 09:05:43,343 - commands.post - INFO - Username: RexFp
+2025-05-13 09:05:43,343 - commands.post - INFO - Command Text: /post
+2025-05-13 09:05:43,439 - commands.post - INFO - Connected channels found: 7
+2025-05-13 09:05:43,441 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 09:05:43,580 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 09:05:49,381 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 09:05:49,384 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 09:05:49,385 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 09:05:49,386 - commands.post - DEBUG - Stored original message
+2025-05-13 09:05:49,387 - commands.post - DEBUG - Processing video message
+2025-05-13 09:06:24,819 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 09:06:24,820 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 09:06:24,821 - commands.post - INFO - Username: RexFp
+2025-05-13 09:06:24,821 - commands.post - INFO - Command Text: /post
+2025-05-13 09:06:24,928 - commands.post - INFO - Connected channels found: 7
+2025-05-13 09:06:24,930 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 09:06:25,062 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 09:06:35,426 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 09:06:35,427 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 09:06:35,428 - commands.post - INFO - Username: RexFp
+2025-05-13 09:06:35,428 - commands.post - INFO - Command Text: /post
+2025-05-13 09:06:35,520 - commands.post - INFO - Connected channels found: 7
+2025-05-13 09:06:35,522 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 09:06:35,665 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 09:23:48,343 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 09:23:48,345 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 09:23:48,345 - commands.post - INFO - Username: RexFp
+2025-05-13 09:23:48,346 - commands.post - INFO - Command Text: /post
+2025-05-13 09:23:48,437 - commands.post - INFO - Connected channels found: 7
+2025-05-13 09:23:48,440 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 09:23:48,678 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 09:23:54,647 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 09:23:54,650 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 09:23:54,652 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 09:23:54,652 - commands.post - DEBUG - Stored original message
+2025-05-13 09:23:54,653 - commands.post - DEBUG - Processing video message
+2025-05-13 14:07:53,969 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 14:07:53,971 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 14:07:53,971 - commands.post - INFO - Username: RexFp
+2025-05-13 14:07:53,972 - commands.post - INFO - Command Text: /post
+2025-05-13 14:07:54,031 - commands.post - INFO - Connected channels found: 7
+2025-05-13 14:07:54,032 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 14:07:54,177 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 14:08:02,582 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 14:08:02,585 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 14:08:02,590 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 14:08:02,590 - commands.post - DEBUG - Stored original message
+2025-05-13 14:08:02,591 - commands.post - DEBUG - Processing text message
+2025-05-13 14:08:02,592 - commands.post - DEBUG - Set text: hggh and caption: hggh
+2025-05-13 14:08:02,619 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 14:08:02,620 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 14:08:02,623 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 14:08:02,631 - commands.post - DEBUG - Stored original message
+2025-05-13 14:08:02,633 - commands.post - DEBUG - Processing video message
+2025-05-13 14:08:14,190 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 14:08:14,193 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 14:08:14,197 - commands.post - INFO - Username: RexFp
+2025-05-13 14:08:14,199 - commands.post - INFO - Command Text: /post
+2025-05-13 14:08:14,245 - commands.post - INFO - Connected channels found: 7
+2025-05-13 14:08:14,247 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 14:08:14,378 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 14:08:20,774 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 14:08:20,777 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 14:08:20,784 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 14:08:20,787 - commands.post - DEBUG - Stored original message
+2025-05-13 14:08:20,796 - commands.post - DEBUG - Processing video message
+2025-05-13 14:28:19,559 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 14:28:19,570 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 14:28:19,585 - commands.post - INFO - Username: RexFp
+2025-05-13 14:28:19,594 - commands.post - INFO - Command Text: /post
+2025-05-13 14:28:19,698 - commands.post - INFO - Connected channels found: 7
+2025-05-13 14:28:19,702 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 14:28:19,838 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 14:28:25,159 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 14:28:25,168 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 14:28:25,175 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 14:28:25,178 - commands.post - DEBUG - Stored original message
+2025-05-13 14:28:25,181 - commands.post - DEBUG - Processing video message
+2025-05-13 14:42:15,835 - commands.post - INFO - ========== POST COMMAND TRIGGERED ==========
+2025-05-13 14:42:15,836 - commands.post - INFO - From User ID: 8184133392
+2025-05-13 14:42:15,836 - commands.post - INFO - Username: RexFp
+2025-05-13 14:42:15,837 - commands.post - INFO - Command Text: /post
+2025-05-13 14:42:15,907 - commands.post - INFO - Connected channels found: 7
+2025-05-13 14:42:15,908 - commands.post - DEBUG - Created new draft for user 8184133392
+2025-05-13 14:42:16,052 - commands.post - DEBUG - Sent instructions to user 8184133392
+2025-05-13 14:42:22,478 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 14:42:22,485 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 14:42:22,494 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 14:42:22,498 - commands.post - DEBUG - Stored original message
+2025-05-13 14:42:22,506 - commands.post - DEBUG - Processing video message
+2025-05-13 14:42:56,284 - commands.post - DEBUG - === HANDLING POST CONTENT ===
+2025-05-13 14:42:56,286 - commands.post - DEBUG - User ID: 8184133392
+2025-05-13 14:42:56,288 - commands.post - DEBUG - Found draft for user 8184133392
+2025-05-13 14:42:56,289 - commands.post - DEBUG - Stored original message
+2025-05-13 14:42:56,291 - commands.post - DEBUG - Processing text message
+2025-05-13 14:42:56,292 - commands.post - DEBUG - Set text: hello and caption: hello
