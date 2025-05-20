@@ -1,5 +1,5 @@
 from pyrogram import Client
-from config import Config
+from config import *
 
 bot = Client(
     "telegram_bot",
