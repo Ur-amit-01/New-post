@@ -3,7 +3,7 @@ from config import Config
 
 bot = Client(
     "telegram_bot",
-    api_id=Config.API_ID,
-    api_hash=Config.API_HASH,
-    bot_token=Config.BOT_TOKEN
+    api_id=Config.26939379,
+    api_hash=Config.011dbd277e5ee4c2e6ed399c54e5ab53,
+    bot_token=Config.8000038670:AAF-1a58qk33FTdu4IrWuKpm0peT1sQNvT0
 )
