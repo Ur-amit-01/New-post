@@ -3,3 +3,5 @@ tgcrypto
 python-dotenv
 motor
 pymongo
+gunicorn
+flask
